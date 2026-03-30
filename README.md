@@ -1,5 +1,7 @@
 # Touchpad Mouse Toggle (KDE Wayland)
 
+**Part of the [Patches Index](https://github.com/danielrosehill/Patches-Repos-Index).**
+
 Auto-disables the laptop touchpad when an external mouse is connected, and re-enables it when the mouse is disconnected.
 
 ## Why?
